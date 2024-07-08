@@ -1,0 +1,7 @@
+# Ignore .idea directory (PyCharm project files)
+.idea/
+
+# Ignore other files or directories
+node_modules/
+*.log
+*.tmp
